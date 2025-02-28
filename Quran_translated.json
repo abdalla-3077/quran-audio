@@ -1,0 +1,634 @@
+[
+    {
+        "identifier": "ar.abdulazizazzahrani",
+        "name": "عبد العزيز الزهراني"
+    },
+    {
+        "identifier": "ar.abdulbariaththubaity",
+        "name": "عبد الباري الثبيتي"
+    },
+    {
+        "identifier": "ar.abdulbarimohammed",
+        "name": "عبد الباري محمد"
+    },
+    {
+        "identifier": "ar.abdulbasitmujawwad",
+        "name": "عبد الباسط عبد الصمد [مجود]"
+    },
+    {
+        "identifier": "ar.abdulbasitmurattal",
+        "name": "عبد الباسط عبد الصمد [مرتل]"
+    },
+    {
+        "identifier": "ar.abdulkareemalhazmi",
+        "name": "عبد الكريم الحازمي"
+    },
+    {
+        "identifier": "ar.abdullahalmatrood",
+        "name": "عبد الله المطرود"
+    },
+    {
+        "identifier": "ar.abdullahawadaljuhani",
+        "name": "عبد الله جهني"
+    },
+    {
+        "identifier": "ar.abdullahbasfar",
+        "name": "عبد الله بصفر"
+    },
+    {
+        "identifier": "ar.abdullahkhayat",
+        "name": "عبد الله خياط"
+    },
+    {
+        "identifier": "ar.abdullahkhulaifi",
+        "name": "عبد الله خليفي"
+    },
+    {
+        "identifier": "ar.abdulmohsenalharthy",
+        "name": "عبد المحسن الحارثي"
+    },
+    {
+        "identifier": "ar.abdulmuhsinalqasim",
+        "name": "عبد المحسن القاسم"
+    },
+    {
+        "identifier": "ar.abdulmunimabdulmubdi",
+        "name": "عبد المنعم عبد المبدي"
+    },
+    {
+        "identifier": "ar.abdulwadoodhaneef",
+        "name": "عبد الودود حنيف"
+    },
+    {
+        "identifier": "ar.abdurrasheedsufiabialhaarithanalkasaaee",
+        "name": "عبد الرشيد صوفي [أبي الحارث الكسائي]"
+    },
+    {
+        "identifier": "ar.abdurrasheedsufiaddoorianabiamr",
+        "name": "عبد الرشيد صوفي [الدوري عن أبي عمرو]"
+    },
+    {
+        "identifier": "ar.abdurrasheedsufishubahanasim",
+        "name": "عبد الرشيد صوفي [شعبة عن عاصم]"
+    },
+    {
+        "identifier": "ar.abdurrasheedsufisoosi",
+        "name": "عبد الرشيد صوفي [سوسي]"
+    },
+    {
+        "identifier": "ar.abdurrazaqbinabtanaldulaimi",
+        "name": "عبد الرزاق بن أبتان الدليمي"
+    },
+    {
+        "identifier": "ar.abuabdullahmuniraltounsi",
+        "name": "أبو عبد الله منير التونسي"
+    },
+    {
+        "identifier": "ar.abubakraldhabi",
+        "name": "أبو بكر الظاهري"
+    },
+    {
+        "identifier": "ar.adilkalbani",
+        "name": "عادل الكلباني"
+    },
+    {
+        "identifier": "ar.ahmadalhawashy",
+        "name": "أحمد الهواشي"
+    },
+    {
+        "identifier": "ar.ahmadalnufais",
+        "name": "أحمد النفيس"
+    },
+    {
+        "identifier": "ar.ahmadkhaderaltarabulsi",
+        "name": "أحمد خضر الطرابلسي"
+    },
+    {
+        "identifier": "ar.ahmadsulaiman",
+        "name": "أحمد سليمان"
+    },
+    {
+        "identifier": "ar.ahmedalajmi",
+        "name": "أحمد بن علي العجمي"
+    },
+    {
+        "identifier": "ar.ahmedalhammad",
+        "name": "أحمد الحماد"
+    },
+    {
+        "identifier": "ar.ahmedalmisbahi",
+        "name": "أحمد المصباحي"
+    },
+    {
+        "identifier": "ar.ahmedamir",
+        "name": "أحمد أمير"
+    },
+    {
+        "identifier": "ar.ahmedmohamedsalama",
+        "name": "أحمد محمد سلامة"
+    },
+    {
+        "identifier": "ar.ahmedsaber",
+        "name": "أحمد صابر"
+    },
+    {
+        "identifier": "ar.alafasy",
+        "name": "مشاري راشد العفاسي"
+    },
+    {
+        "identifier": "ar.alashryomran",
+        "name": "العشري عمران"
+    },
+    {
+        "identifier": "ar.alfatehmuhammadzubair",
+        "name": "الفاتح محمد زبير"
+    },
+    {
+        "identifier": "ar.alhusaynialazazi",
+        "name": "الحسيني العزازي"
+    },
+    {
+        "identifier": "ar.alhusaynialazazichildren",
+        "name": "الحسيني العزازي - للأطفال"
+    },
+    {
+        "identifier": "ar.aliabdurrahmanalhuthaify",
+        "name": "علي عبد الرحمن الحذيفي"
+    },
+    {
+        "identifier": "ar.aliabdurrahmanalhuthaifyqaloon",
+        "name": "علي الحذيفي [قالون]"
+    },
+    {
+        "identifier": "ar.alihajjajsouissi",
+        "name": "علي حجاج السويسي"
+    },
+    {
+        "identifier": "ar.alzainmohamedahmed",
+        "name": "الزين محمد أحمد"
+    },
+    {
+        "identifier": "ar.aymanswed",
+        "name": "أيمن سويد"
+    },
+    {
+        "identifier": "ar.azizalili",
+        "name": "عزيز العليلي"
+    },
+    {
+        "identifier": "ar.bandarbalila",
+        "name": "بندر بليلة"
+    },
+    {
+        "identifier": "ar.basselabdulrahmanraoui",
+        "name": "باسل عبد الرحمن راوي"
+    },
+    {
+        "identifier": "ar.benkirane",
+        "name": "عبد المجيب بن كيران"
+    },
+    {
+        "identifier": "ar.darwishfarajdarwishalattar",
+        "name": "درويش فرج درويش العطار"
+    },
+    {
+        "identifier": "ar.eidhassanabuaachra",
+        "name": "عيد حسن أبو عشرة"
+    },
+    {
+        "identifier": "ar.emadalmansary",
+        "name": "عماد المنصوري"
+    },
+    {
+        "identifier": "ar.ezzatsabri",
+        "name": "عزات صبري"
+    },
+    {
+        "identifier": "ar.faresabbad",
+        "name": "فارس عباد"
+    },
+    {
+        "identifier": "ar.fouadalkhamiri",
+        "name": "فؤاد الخميري"
+    },
+    {
+        "identifier": "ar.hamadsinan",
+        "name": "حمد سنان"
+    },
+    {
+        "identifier": "ar.hamdyalsayedtolbasaad",
+        "name": "حمدي السيد طلبة سعد"
+    },
+    {
+        "identifier": "ar.haniarrifai",
+        "name": "هاني الرفاعي"
+    },
+    {
+        "identifier": "ar.hasanhashem",
+        "name": "حسن هاشم"
+    },
+    {
+        "identifier": "ar.hassansaleh",
+        "name": "حسن صالح"
+    },
+    {
+        "identifier": "ar.hatemfarid",
+        "name": "حاتم فريد"
+    },
+    {
+        "identifier": "ar.ibrahimalakhdar",
+        "name": "إبراهيم الأخضر"
+    },
+    {
+        "identifier": "ar.ibrahimaldossari",
+        "name": "إبراهيم الدوسري"
+    },
+    {
+        "identifier": "ar.ibrahimaljormy",
+        "name": "إبراهيم الجورمي"
+    },
+    {
+        "identifier": "ar.ilhantok",
+        "name": "إيلهان توك"
+    },
+    {
+        "identifier": "ar.imadzuhairhafez",
+        "name": "عماد زهير حافظ"
+    },
+    {
+        "identifier": "ar.jaberabdulhameed",
+        "name": "جابر عبد الحميد"
+    },
+    {
+        "identifier": "ar.jamaanalosaimi",
+        "name": "جمعان العصيمي"
+    },
+    {
+        "identifier": "ar.jamalshakerabdullah",
+        "name": "جمال شاكر عبد الله"
+    },
+    {
+        "identifier": "ar.jazzaalswaileh",
+        "name": "جزاء السويلم"
+    },
+    {
+        "identifier": "ar.kamel",
+        "name": "عبد الله كامل"
+    },
+    {
+        "identifier": "ar.karimmansouri",
+        "name": "كريم المنصوري"
+    },
+    {
+        "identifier": "ar.khaledalqahtani",
+        "name": "خالد القحطاني"
+    },
+    {
+        "identifier": "ar.khaledbarakat",
+        "name": "خالد بركات"
+    },
+    {
+        "identifier": "ar.khalidabdulkafi",
+        "name": "خالد عبد الكافي"
+    },
+    {
+        "identifier": "ar.khalidaljalil",
+        "name": "خالد الجليل"
+    },
+    {
+        "identifier": "ar.khalidalmohanna",
+        "name": "خالد المحنّا"
+    },
+    {
+        "identifier": "ar.khalifaaltunaiji",
+        "name": "خليفة التونيجي"
+    },
+    {
+        "identifier": "ar.laayounelkouchi",
+        "name": "العيون الكوشي"
+    },
+    {
+        "identifier": "ar.lesaintcorantraduitenfrancais",
+        "name": "القرآن الكريم مترجم للفرنسية"
+    },
+    {
+        "identifier": "ar.mahershakhashiro",
+        "name": "ماهر شخاشيرو"
+    },
+    {
+        "identifier": "ar.mahmoodalrifai",
+        "name": "محمود الرفاعي"
+    },
+    {
+        "identifier": "ar.mahmoudalialbanna",
+        "name": "محمود علي البنا"
+    },
+    {
+        "identifier": "ar.mahmoudelsheimy",
+        "name": "محمود الشيحي"
+    },
+    {
+        "identifier": "ar.mahmoudsaaddarouich",
+        "name": "محمود سعد درويش"
+    },
+    {
+        "identifier": "ar.mahmoudsayedeltayeb",
+        "name": "محمود سيد الطيب"
+    },
+    {
+        "identifier": "ar.misharyrashidalafasy",
+        "name": "مشاري راشد العفاسي"
+    },
+    {
+        "identifier": "ar.moeedhalharthi",
+        "name": "معيض الحارثي"
+    },
+    {
+        "identifier": "ar.mohamedabdelaziz",
+        "name": "محمد عبد العزيز"
+    },
+    {
+        "identifier": "ar.mohamedabdelhakimsaadalabdullah",
+        "name": "محمد عبد الحكيم سعد العبد الله"
+    },
+    {
+        "identifier": "ar.mohamedaljaberyalheyani",
+        "name": "محمد الجابري الهياني"
+    },
+    {
+        "identifier": "ar.mohamedalmohisni",
+        "name": "محمد المحيسني"
+    },
+    {
+        "identifier": "ar.mohamedelkantaoui",
+        "name": "محمد الكنتاوي"
+    },
+    {
+        "identifier": "ar.mohamedhassan",
+        "name": "محمد حسن"
+    },
+    {
+        "identifier": "ar.mohamedmaabad",
+        "name": "محمد معبد"
+    },
+    {
+        "identifier": "ar.mohamedosmankhan",
+        "name": "محمد عثمان خان (من الهند)"
+    },
+    {
+        "identifier": "ar.mohamedshaabanabuqarn",
+        "name": "محمد شعبان أبو قرن"
+    },
+    {
+        "identifier": "ar.mohamedtablawi",
+        "name": "محمد الطبلاوي"
+    },
+    {
+        "identifier": "ar.mohammadismaeelalmuqaddim",
+        "name": "محمد إسماعيل المقدم"
+    },
+    {
+        "identifier": "ar.mohammadrachadalshareef",
+        "name": "محمد رشاد الشريف"
+    },
+    {
+        "identifier": "ar.mohammedbinsalehabuzaid",
+        "name": "محمد بن صالح أبو زيد"
+    },
+    {
+        "identifier": "ar.muftahalsaltany",
+        "name": "مفتاح السلطاني"
+    },
+    {
+        "identifier": "ar.muhammadabdulkareem",
+        "name": "محمد عبد الكريم"
+    },
+    {
+        "identifier": "ar.muhammadalaalimaldokali",
+        "name": "محمد العالم الدوكالي"
+    },
+    {
+        "identifier": "ar.muhammadalluhaidan",
+        "name": "محمد الهيدان"
+    },
+    {
+        "identifier": "ar.muhammadalmehysni",
+        "name": "محمد المحيسني"
+    },
+    {
+        "identifier": "ar.muhammadalsubayyil",
+        "name": "محمد السبيل"
+    },
+    {
+        "identifier": "ar.muhammadanwarshahat",
+        "name": "محمد أنور شحات"
+    },
+    {
+        "identifier": "ar.muhammadayyub",
+        "name": "محمد أيوب"
+    },
+    {
+        "identifier": "ar.muhammadsalehalimshah",
+        "name": "محمد صالح شاه"
+    },
+    {
+        "identifier": "ar.muhammadsiddiqalminshawimujawwad",
+        "name": "محمد صدّيق المنشاوي [مجود]"
+    },
+    {
+        "identifier": "ar.muhammadsulaimanpatel",
+        "name": "محمد سليمان باتيل"
+    },
+    {
+        "identifier": "ar.musabilal",
+        "name": "موسى بلال"
+    },
+    {
+        "identifier": "ar.mustafaallahouni",
+        "name": "مصطفى اللاهوني"
+    },
+    {
+        "identifier": "ar.mustafaismail",
+        "name": "مصطفى إسماعيل"
+    },
+    {
+        "identifier": "ar.mustafaraadalazzawi",
+        "name": "مصطفى رعد العزاوي"
+    },
+    {
+        "identifier": "ar.mustaphagharbi",
+        "name": "مصطفى غربي"
+    },
+    {
+        "identifier": "ar.nabilarrifai",
+        "name": "نبيل الرفاعي"
+    },
+    {
+        "identifier": "ar.nasseralqatami",
+        "name": "ناصر القطامي"
+    },
+    {
+        "identifier": "ar.neamahalhassan",
+        "name": "نعامة الحسن"
+    },
+    {
+        "identifier": "ar.obeikan",
+        "name": "عبد المحسن العبيّكان"
+    },
+    {
+        "identifier": "ar.oimaoqataris",
+        "name": "عيماء القطري"
+    },
+    {
+        "identifier": "ar.omaralkazabri",
+        "name": "عمر الكزابري"
+    },
+    {
+        "identifier": "ar.osamabinalialghanim",
+        "name": "أسامة بن علي الغانم"
+    },
+    {
+        "identifier": "ar.rachidbelalia",
+        "name": "رشيد بلعلي"
+    },
+    {
+        "identifier": "ar.saberabdulhakam",
+        "name": "صابر عبد الحكم"
+    },
+    {
+        "identifier": "ar.sadaqatali",
+        "name": "صدقت علي"
+    },
+    {
+        "identifier": "ar.sahlyasin",
+        "name": "سهل ياسين"
+    },
+    {
+        "identifier": "ar.saidalshaalan",
+        "name": "سعيد الشعلان"
+    },
+    {
+        "identifier": "ar.salahalbudair",
+        "name": "صلاح البدير"
+    },
+    {
+        "identifier": "ar.salahalhashem",
+        "name": "صلاح الهاشم"
+    },
+    {
+        "identifier": "ar.salahbaothman",
+        "name": "صلاح بعثمان"
+    },
+    {
+        "identifier": "ar.samirbelaachya",
+        "name": "سمير بلعشية"
+    },
+    {
+        "identifier": "ar.saudalshuraim",
+        "name": "سعود الشريم"
+    },
+    {
+        "identifier": "ar.sayedramadan",
+        "name": "الشيخ سيد رمضان"
+    },
+    {
+        "identifier": "ar.shahriarparhizgar",
+        "name": "شهريار برهيزكار"
+    },
+    {
+        "identifier": "ar.sudaisshuraymnaeemsultan",
+        "name": "الشيخ سديس والشيخ شريم مع نعيم سلطان [ترجمة بيكتول]"
+    },
+    {
+        "identifier": "ar.tamerislam",
+        "name": "تامر الإسلام"
+    },
+    {
+        "identifier": "ar.tareqabdulganidaawob",
+        "name": "طارق داوب"
+    },
+    {
+        "identifier": "ar.tawfeeqassayegh",
+        "name": "توفيق الصايغ"
+    },
+    {
+        "identifier": "ar.turkiebeidalmarri",
+        "name": "تركي عبيد المري"
+    },
+    {
+        "identifier": "ar.waeldesouky",
+        "name": "وائل الدسوقي"
+    },
+    {
+        "identifier": "ar.waelradwanqureshi",
+        "name": "وائل رضوان قريشي"
+    },
+    {
+        "identifier": "ar.waleedidreesalmaneese",
+        "name": "وليد إدريس المانع"
+    },
+    {
+        "identifier": "ar.waleednaehi",
+        "name": "وليد الناعحي"
+    },
+    {
+        "identifier": "ar.waleedsamiraliabdulmajidsorour",
+        "name": "وليد سمير علي عبد المجيد سرور"
+    },
+    {
+        "identifier": "ar.walidalshatti",
+        "name": "وليد الشطي"
+    },
+    {
+        "identifier": "ar.walidfathibashta",
+        "name": "وليد فتحي بشطة"
+    },
+    {
+        "identifier": "ar.yahyahawwa",
+        "name": "يحيى حوى"
+    },
+    {
+        "identifier": "ar.yassenaljazairi",
+        "name": "ياسين الجزائري"
+    },
+    {
+        "identifier": "ar.yasseraldossari",
+        "name": "ياسر الدوسري"
+    },
+    {
+        "identifier": "ar.yasseralmazroyee",
+        "name": "ياسر المزروعي"
+    },
+    {
+        "identifier": "ar.yasserqureshi",
+        "name": "ياسر القرشي"
+    },
+    {
+        "identifier": "ar.yassersalama",
+        "name": "ياسر سلامة"
+    },
+    {
+        "identifier": "ar.yassersarhaneldeeb",
+        "name": "ياسر سرحان الديب"
+    },
+    {
+        "identifier": "ar.yousufalshoaey",
+        "name": "يوسف الشويعي"
+    },
+    {
+        "identifier": "ar.yousufbinnoahahmad",
+        "name": "يوسف بن نوح أحمد"
+    },
+    {
+        "identifier": "en.misharyrashidalafasyenglishtranslationsaheehibrahimwalk",
+        "name": "مشاري راشد مع إبراهيم ووك [ترجمة صحيح الدولية]"
+    },
+    {
+        "identifier": "en.muhammadayyubenglishtranslationmuhsinkhanmikaalwaters",
+        "name": "محمد أيوب مع ميكال ووترز [ترجمة محسن خان]"
+    },
+    {
+        "identifier": "en.sudaisandshuraymenglishtranslationpickthallaslamathar",
+        "name": "سديس وشريم مع أسلم أثار [ترجمة بيكتول]"
+    }
+]
